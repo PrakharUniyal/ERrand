@@ -1,2 +1,3 @@
-- [x] Create a webapp's backend
-- [ ] Create an elixir library
+- [x] Complete a webapp's backend
+- [ ] Create a webapp's Frontend
+- [x] Create an elixir library
